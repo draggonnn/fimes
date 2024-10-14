@@ -47,7 +47,7 @@ h1 {
 }
 
 .buy-button {
-    background-color: #28a745;
+    background-color: #1dc441;
     color: white;
     padding: 15px 30px;
     font-size: 1.2em;
@@ -57,7 +57,7 @@ h1 {
 }
 
 .buy-button:hover {
-    background-color: #218838;
+    background-color: #882137;
 }
 
 footer {
