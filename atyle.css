@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #080338;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #4A90E2;
+}
+
+.benefits {
+    margin: 40px 0;
+    color: #218838;
+}
+
+.benefits h2 {
+    text-align: center;
+    color: #fc0404;
+}
+
+.benefits ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.benefits li {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: beige;
+}
+
+.call-to-action {
+    text-align: center;
+}
+
+.buy-button {
+    background-color: #28a745;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.buy-button:hover {
+    background-color: #218838;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #4A90E2;
+    text-decoration: none;
+}
+p{
+    color: rgb(165, 42, 159);
+}
+.header-img {
+    width: 100%;
+    /* A imagem será responsiva, ocupando 100% da largura do container */
+    max-width: 600px;
+    /* Limita a largura máxima da imagem */
+    height: auto;
+    /* Mantém a proporção original da imagem */
+    display: block;
+    /* Faz a imagem se comportar como um bloco */
+    margin: 20px auto;
+    /* Centraliza a imagem horizontalmente */
+}
+h2{
+    color: blueviolet;
+}
